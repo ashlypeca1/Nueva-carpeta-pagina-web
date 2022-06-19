@@ -44,9 +44,9 @@ border-radius: 20px;
 }
 
 body{
-background-image: url(./balazs-ketyi-sSWgOtIuXVU-unsplash.jpg);
+background-image: url(../img/balazs-ketyi-sSWgOtIuXVU-unsplash.jpg);
 background-repeat: no-repeat;
-background-position: center;
+background-position: center center;
 background-size: cover;
 backdrop-filter: url(filters.svg#filter) blur(2px) saturate(100%);
 
